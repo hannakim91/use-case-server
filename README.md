@@ -9,4 +9,5 @@ Install and start up server to be able to use form to save new sentences
 ```
 npm i
 nodemon server.js
+Open server locally on `http://localhost:8001/api/v1/sentences` to view 
 ```
